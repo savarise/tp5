@@ -8,5 +8,5 @@ def compter_mots(chaine):
 
     print("Le nombre de mots dans la chaine est :", nombre_de_mots)
 # alors, on utilise la fonction sur ce que l'utilisateur met comme input
-chaine_de_caracteres = input()
+chaine_de_caracteres = input("Met des chaines de characteres et je vais compter combien il y en a.")
 compter_mots(chaine_de_caracteres)
